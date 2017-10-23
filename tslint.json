@@ -10,7 +10,7 @@
     ],
     "curly": true,
     "eofline": true,
-    "forin": true,
+    "forin": false,
     "indent": [
       true,
       "spaces"
@@ -62,8 +62,7 @@
       "check-whitespace"
     ],
     "quotemark": [
-      true,
-      "single"
+      false
     ],
     "radix": true,
     "semicolon": [
